@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">I'm  Nadeeshan Wijesinghe <br><br>🔭 I’m working as undergraduate<br>📚 I’m currently learning Web Technology and  Networking <br>❓ Ask me about anything related to Web Technology , programming and related technologies<br>⚡ In my free time I Play Video Games</p>
+<p align="left">I'm  Nadeeshan Wijesinghe <br><br>🔭 I’m working as undergraduate<br>📚 I’m currently learning Web Technology and  Networking <br>❓ Ask me about anything related to Web Technology , programming ,networking and  related technologies<br>⚡ In my free time I Play Video Games</p>
 
 ###
 
@@ -80,6 +80,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NadeeshanRW&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=NadeeshanRW&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=NadeeshanRW&theme=dracula&column=4&row=2&margin-w=13&margin-h=13&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  
 </div>
 
 ###
