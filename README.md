@@ -1,216 +1,229 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     NADEESHAN R. WIJESINGHE — GitHub Profile README
+     Next-Level | Clean | Elite | Professional
+     ═══════════════════════════════════════════════════════════════════════ -->
+
+<!-- HERO BANNER -->
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=Nadeeshan%20R.%20Wijesinghe&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Networking%20Engineer%20%7C%20Security%20Enthusiast&descAlignY=58&descColor=00d4ff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:0f0c29&height=220&section=header&text=Nadeeshan%20R.%20Wijesinghe&fontSize=40&fontColor=E0D7FF&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20Security%20Enthusiast&descAlignY=62&descColor=A78BFA&animation=twinkling" />
 
 </div>
 
-<!-- TYPING SVG -->
+<!-- DYNAMIC TYPING -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=🚀+Building+the+Future+of+the+Web;🔐+Exploring+Cybersecurity+%26+Networking;💡+Turning+Ideas+into+Reality;🎯+Undergraduate+%7C+Dev+%7C+Gamer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=52&lines=%F0%9F%9A%80+Crafting+scalable+web+experiences;%F0%9F%94%90+Exploring+cybersecurity+%26+ethical+hacking;%F0%9F%8C%90+Building+full-stack+products+from+scratch;%F0%9F%8E%AE+Gamer+by+night+%E2%80%94+Developer+by+day)](https://git.io/typing-svg)
 
 </div>
+
+<br/>
 
 ---
 
-<!-- ABOUT ME SECTION WITH ANIMATED BORDER -->
-<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<!-- ABOUT -->
 
-### 👨‍💻 About Me
+<img align="right" width="360" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding"/>
 
-```yaml
-Name     : Nadeeshan R. Wijesinghe
-Role     : Full-Stack Developer & sys admin 
-Location : Sri Lanka 🇱🇰
-Focus    : Web Technology & Networking
-Status   : Always Learning, Always Building
+### `whoami`
+
+```javascript
+const nadeeshan = {
+  name     : "Nadeeshan R. Wijesinghe",
+  location : "Sri Lanka 🇱🇰",
+  role     : "Undergraduate & Full-Stack Developer",
+  focus    : ["Web Development", "Networking", "Cybersecurity"],
+  learning : ["Cloud (AWS)", "DevOps", "CTF Challenges"],
+  hobbies  : ["Coding", "Gaming 🎮", "Breaking things ethically"],
+  contact  : "nadeeshanrw@gmail.com",
+  motto    : "Build. Break. Learn. Repeat."
+};
 ```
 
-- 🔭 Currently working as an **Undergraduate** pushing limits every day
-- 🌐 Specializing in **Full-Stack Web Development** & **Network Engineering**
-- 🔐 Actively learning **Cybersecurity** on TryHackMe
-- 🎮 Gamer by night, Developer by day
-- 💬 Ask me about **Web Tech, Networking, Programming, Security**
-- 📫 Reach me at **nadeeshanrw@gmail.com**
-- ⚡ Fun fact: *I debug code faster than I lose at games*
+- 🔭 Currently an **Undergraduate** pushing limits every single day
+- 🌐 Focused on **Full-Stack Web Development** & **Network Engineering**
+- 🔐 Actively sharpening **Cybersecurity** skills on TryHackMe
+- 🎮 When I'm not coding, I'm probably in a game lobby
+- 💬 Ask me about **Web Tech, Networking, Android Dev, Security**
+- 📬 **nadeeshanrw@gmail.com**
 
 <br clear="both"/>
 
 ---
 
-<!-- TECH STACK SECTION -->
-<h2 align="center">🛠️ Tech Arsenal</h2>
+<!-- TECH STACK -->
 
-<div align="center">
+<h2 align="center">⚙️ Tech Stack & Tools</h2>
 
-**Frontend**
+<details open>
+<summary><b>🌐 Frontend</b></summary>
+<br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Backend & Database**
+</details>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<details>
+<summary><b>🖧 Backend & Database</b></summary>
+<br/>
 
-**Mobile Development**
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+</details>
 
-**Other Languages & Tools**
+<details>
+<summary><b>📱 Mobile & Other Languages</b></summary>
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-</div>
+</details>
+
+<details>
+<summary><b>🐧 OS & DevTools</b></summary>
+<br/>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</details>
 
 ---
 
-<!-- SNAKE ANIMATION -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<!-- SNAKE -->
+
+<h2 align="center">🐍 My Contribution Snake</h2>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NadeeshanRW/NadeeshanRW/blob/output/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/NadeeshanRW/NadeeshanRW/blob/output/snake.svg" />
-    <img alt="Snake animation" src="https://github.com/NadeeshanRW/NadeeshanRW/blob/output/snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/NadeeshanRW/NadeeshanRW/blob/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github.com/NadeeshanRW/NadeeshanRW/blob/output/snake.svg" />
+    <img alt="Contribution Snake" width="100%"
+      src="https://github.com/NadeeshanRW/NadeeshanRW/blob/output/snake.svg" />
   </picture>
 </div>
 
 ---
 
-<!-- GITHUB STATS - NEXT LEVEL LAYOUT -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<!-- GITHUB STATS -->
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NadeeshanRW&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&ring_color=00d4ff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NadeeshanRW&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=NadeeshanRW&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0c29" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=NadeeshanRW&theme=midnight-purple&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadeeshanRW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=NadeeshanRW&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=8&margin-h=8" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadeeshanRW&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&langs_count=8" />
+<img height="150" src="https://github-profile-trophy.vercel.app/?username=NadeeshanRW&theme=discord&no-frame=true&column=4&margin-w=6&margin-h=6" />
+
 </div>
 
 ---
 
 <!-- ACTIVITY GRAPH -->
-<h2 align="center">📈 Contribution Graph</h2>
+
+<h2 align="center">📈 Activity Graph</h2>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NadeeshanRW&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&hide_border=true&area_color=7c3aed"/>
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=NadeeshanRW&bg_color=0f0c29&color=A78BFA&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=302b63" />
 </div>
 
 ---
 
-<!-- WAKATIME / CODING TIME IF AVAILABLE -->
-<h2 align="center">⏱️ This Week I Spent My Time On</h2>
+<!-- SKILL ROADMAP -->
+
+<h2 align="center">🎯 Current Skill Roadmap</h2>
 
 <div align="center">
 
-```text
-🌐 Web Development    ████████████░░░░░░░░   60%
-📱 Mobile Dev         ████░░░░░░░░░░░░░░░░   20%
-🐧 Linux / Networking ███░░░░░░░░░░░░░░░░░   15%
-🔐 Security / CTF     █░░░░░░░░░░░░░░░░░░░    5%
-```
-
-</div>
-
----
-
-<!-- PROJECTS SHOWCASE -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NadeeshanRW&repo=NadeeshanRW&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=7c3aed)](https://github.com/NadeeshanRW/NadeeshanRW)
-
-> 💡 *More projects coming soon — stay tuned!*
+| Skill | Level | Progress |
+|:---|:---:|:---|
+| React / Next.js | Advanced | `████████░░` 80% |
+| PHP / MySQL | Intermediate | `██████░░░░` 65% |
+| Android (Kotlin/Java) | Intermediate | `███████░░░` 70% |
+| Python | Intermediate | `██████░░░░` 60% |
+| Networking (CCNA Path) | Advanced | `███████░░░` 72% |
+| Linux / Ubuntu | Advanced | `████████░░` 80% |
+| Cybersecurity / CTF | Learning | `█████░░░░░` 50% |
+| Cloud (AWS / GCP) | Beginner | `███░░░░░░░` 28% |
 
 </div>
 
 ---
 
-<!-- ACHIEVEMENTS & LEARNING ROADMAP -->
-<h2 align="center">🎯 Current Learning Path</h2>
+<!-- TRYHACKME -->
+
+<h2 align="center">🔐 TryHackMe</h2>
 
 <div align="center">
-
-| 🎓 Skill | 📊 Progress | 🏷️ Level |
-|---|---|---|
-| React / Next.js | `████████░░` 80% | Advanced |
-| Node.js / Express | `██████░░░░` 60% | Intermediate |
-| Docker / DevOps | `████░░░░░░` 40% | Learning |
-| Cybersecurity / CTF | `█████░░░░░` 50% | Intermediate |
-| Cloud (AWS/GCP) | `███░░░░░░░` 30% | Beginner |
-| Networking (CCNA) | `███████░░░` 70% | Advanced |
-
-</div>
-
----
-
-<!-- TRYHACKME BADGE -->
-<h2 align="center">🔐 TryHackMe Progress</h2>
-
-<div align="center">
-  <a href="https://tryhackme.com/r/p/Nadeeshan.Wijesinghe" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Nadeeshan.Wijesinghe.png" alt="TryHackMe Badge" width="300"/>
+  <a href="https://tryhackme.com/r/p/Nadeeshan.Wijesinghe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Nadeeshan.Wijesinghe.png" alt="TryHackMe" width="280"/>
   </a>
 </div>
 
 ---
 
-<!-- CONNECT SECTION -->
-<h2 align="center">🔗 Let's Connect</h2>
+<!-- QUOTE -->
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeeshan-r-wijesinghe-3724ba263)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NadeeshanRW)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ywHnJ4FQ)
+### 💭 Daily Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<!-- CONNECT -->
+
+<h2 align="center">🔗 Connect With Me</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeeshan-r-wijesinghe-3724ba263)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ywHnJ4FQ)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nadeeshan.rwijesinghe)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nadeeshan.r.wijesingha)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadeeshanrw@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nadiya_RW)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nadiya_rw)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nadiya_RW)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadeeshanrw@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/Nadeeshan.Wijesinghe)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nadiya_rw)
 
 </div>
 
 ---
 
-<!-- QUOTE -->
+<!-- FOOTER -->
+
 <div align="center">
 
-### 💭 Dev Quote of the Day
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=NadeeshanRW.NadeeshanRW&left_color=0f0c29&right_color=7c3aed&left_text=Profile%20Views)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+**⭐ If any of my work helps you, a star means the world!**
 
-</div>
-
----
-
-<!-- VISITOR COUNTER -->
-<div align="center">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NadeeshanRW.NadeeshanRW&left_color=0d1117&right_color=00d4ff&left_text=Profile%20Views)
-
-**⭐ Star my repos if you find them helpful! ⭐**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
 </div>
