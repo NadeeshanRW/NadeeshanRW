@@ -142,15 +142,7 @@ const nadeeshan = {
 
 ---
 
-<!-- ACTIVITY GRAPH -->
 
-<h2 align="center">📈 Activity Graph</h2>
-
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=NadeeshanRW&bg_color=0f0c29&color=A78BFA&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=302b63" />
-</div>
-
----
 
 <!-- SKILL ROADMAP -->
 
