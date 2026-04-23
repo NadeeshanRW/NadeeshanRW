@@ -185,17 +185,6 @@ const nadeeshan = {
 
 ---
 
-<!-- QUOTE -->
-
-<div align="center">
-
-### 💭 Daily Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
 
 <!-- CONNECT -->
 
