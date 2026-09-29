@@ -142,9 +142,7 @@ I'm Nadeeshan Wijesinghe, a Systems Engineer with hands-on experience in Linux a
 <h4 align="left">🛡️ Security & Infrastructure Management</h4>
 
 <p align="left">
-<a href="https://wazuh.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wazuh/wazuh-original.svg" alt="Wazuh" title="Wazuh" width="36" height="36"/>
-</a>
+
 <a href="https://www.portainer.io/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/portainer/portainer-original.svg" alt="Portainer" title="Portainer" width="36" height="36"/>
 </a>
@@ -166,7 +164,7 @@ I'm Nadeeshan Wijesinghe, a Systems Engineer with hands-on experience in Linux a
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36"/>
 </a>
 <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
-<img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg](https://thesvg.org/icons/appwrite/default.svg)" alt="Appwrite" title="Appwrite" width="36" height="36"/>
+<img src="https://thesvg.org/icons/appwrite/default.svg" alt="Appwrite" title="Appwrite" width="36" height="36"/>
 </a>
 </p>
 
