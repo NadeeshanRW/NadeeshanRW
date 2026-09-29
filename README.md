@@ -1,19 +1,19 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
      NADEESHAN R. WIJESINGHE — GitHub Profile README
-     Next-Level | Clean | Elite | Professional
+     Systems | Infrastructure | DevOps | Security
      ═══════════════════════════════════════════════════════════════════════ -->
 
 <!-- HERO BANNER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:0f0c29&height=220&section=header&text=Nadeeshan%20R.%20Wijesinghe&fontSize=40&fontColor=E0D7FF&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Network%20Engineer%20%E2%80%A2%20Security%20Enthusiast&descAlignY=62&descColor=A78BFA&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:0f0c29&height=220&section=header&text=Nadeeshan%20R.%20Wijesinghe&fontSize=40&fontColor=E0D7FF&fontAlignY=40&desc=Systems%20Administrator%20%E2%80%A2%20DevOps%20%E2%80%A2%20Cybersecurity&descAlignY=62&descColor=A78BFA&animation=twinkling" />
 
 </div>
 
 <!-- DYNAMIC TYPING -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=52&lines=%F0%9F%9A%80+Crafting+scalable+web+experiences;%F0%9F%94%90+Exploring+cybersecurity+%26+ethical+hacking;%F0%9F%8C%90+Building+full-stack+products+from+scratch;%F0%9F%8E%AE+Gamer+by+night+%E2%80%94+Developer+by+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=52&lines=%F0%9F%9B%A0%EF%B8%8F+Managing+Linux+%26+production+infrastructure;%F0%9F%9A%80+Automating+deployments+%26+CI%2FCD;%F0%9F%94%90+Securing+systems+%26+exploring+cybersecurity;%F0%9F%8E%AE+Gamer+by+night+%E2%80%94+Engineer+by+day)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,23 +31,38 @@
 const nadeeshan = {
   name     : "Nadeeshan R. Wijesinghe",
   location : "Sri Lanka 🇱🇰",
-  role     : "Undergraduate & Full-Stack Developer",
-  focus    : ["Web Development", "Networking", "Cybersecurity"],
-  learning : ["Cloud (AWS)", "DevOps", "CTF Challenges"],
-  hobbies  : ["Coding", "Gaming 🎮", "Breaking things ethically"],
+  role     : "Undergraduate & Systems / Infrastructure Engineer",
+  focus    : ["Systems Administration", "Linux & Networking", "DevOps & CI/CD", "Cybersecurity"],
+  learning : ["Cybersecurity", "Systems Engineering", "DevOps", "Cloud (AWS)"],
+  hobbies  : ["Automation", "Gaming 🎮", "Breaking things ethically"],
   contact  : "nadeeshanrw@gmail.com",
   motto    : "Build. Break. Learn. Repeat."
 };
 ```
 
 - 🔭 Currently an **Undergraduate** pushing limits every single day
-- 🌐 Focused on **Full-Stack Web Development** & **Network Engineering**
+- 🖥️ Experienced in **Systems Administration, Linux, Networking & Infrastructure Management**
+- 🐳 Hands-on with **Containerization, CI/CD, System Monitoring & Production Support**
 - 🔐 Actively sharpening **Cybersecurity** skills on TryHackMe
-- 🎮 When I'm not coding, I'm probably in a game lobby
-- 💬 Ask me about **Web Tech, Networking, Android Dev, Security**
+- 🎮 When I'm not in a terminal, I'm probably in a game lobby
+- 💬 Ask me about **Linux, Networking, DevOps, Deployments, Security**
 - 📬 **nadeeshanrw@gmail.com**
 
 <br clear="both"/>
+
+---
+
+<!-- ABOUT ME -->
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+My experience spans **Systems Administration, Linux, Networking, Infrastructure Management, Containerization, CI/CD, System Monitoring, and Production Support**, with hands-on experience managing and supporting development, staging, and production environments.
+
+My experience includes deploying and maintaining applications, managing infrastructure and system services, automating operational workflows, monitoring systems and applications, troubleshooting technical issues, and supporting reliable production environments. I also have experience working with system and access management, virtualization, application configuration, maintenance, and deployment processes.
+
+I enjoy solving complex technical challenges, improving system reliability, and building secure and efficient IT environments. I work closely with development and infrastructure teams to identify and resolve system, application, and deployment-related issues.
+
+Currently, I am strengthening my expertise in **Cybersecurity, Systems Engineering, and DevOps**, with a strong focus on practical implementation, infrastructure security, automation, reliability, and continuous technical growth through hands-on learning and real-world experience.
 
 ---
 
@@ -56,48 +71,50 @@ const nadeeshan = {
 <h2 align="center">⚙️ Tech Stack & Tools</h2>
 
 <details open>
-<summary><b>🌐 Frontend</b></summary>
+<summary><b>🐧 Systems & Operating Systems</b></summary>
+<br/>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=gnubash&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🌐 Networking & Security</b></summary>
+<br/>
+
+![Cisco](https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=flat-square&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🚀 DevOps & Automation</b></summary>
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+</details>
+
+<details>
+<summary><b>💻 Development (Supporting Skills)</b></summary>
 <br/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🖧 Backend & Database</b></summary>
-<br/>
-
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>📱 Mobile & Other Languages</b></summary>
-<br/>
-
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
-</details>
-
-<details>
-<summary><b>🐧 OS & DevTools</b></summary>
-<br/>
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -142,8 +159,6 @@ const nadeeshan = {
 
 ---
 
-
-
 <!-- SKILL ROADMAP -->
 
 <h2 align="center">🎯 Current Skill Roadmap</h2>
@@ -152,12 +167,12 @@ const nadeeshan = {
 
 | Skill | Level | Progress |
 |:---|:---:|:---|
-| React / Next.js | Advanced | `████████░░` 80% |
-| PHP / MySQL | Intermediate | `██████░░░░` 65% |
-| Android (Kotlin/Java) | Intermediate | `███████░░░` 70% |
-| Python | Intermediate | `██████░░░░` 60% |
+| Linux / Ubuntu Administration | Advanced | `████████░░` 80% |
 | Networking (CCNA Path) | Advanced | `███████░░░` 72% |
-| Linux / Ubuntu | Advanced | `████████░░` 80% |
+| Infrastructure & Production Support | Intermediate | `███████░░░` 70% |
+| Docker / CI-CD | Intermediate | `██████░░░░` 60% |
+| Monitoring & Troubleshooting | Intermediate | `██████░░░░` 60% |
+| Scripting (Bash / Python) | Intermediate | `██████░░░░` 60% |
 | Cybersecurity / CTF | Learning | `█████░░░░░` 50% |
 | Cloud (AWS / GCP) | Beginner | `███░░░░░░░` 28% |
 
@@ -176,7 +191,6 @@ const nadeeshan = {
 </div>
 
 ---
-
 
 <!-- CONNECT -->
 
