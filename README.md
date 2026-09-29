@@ -1,42 +1,242 @@
-<h1>Hi 👋, I'm Nadeeshan R. Wijesinghe</h1>
-<p>A passionate Systems Administrator &amp; DevOps enthusiast from Sri Lanka 🇱🇰</p>
+<br clear="both">
 
-<p>I work across <b>Systems Administration, Linux, Networking and Infrastructure Management</b>, with hands-on experience in <b>containers, CI/CD, monitoring and production support</b> across development, staging and production environments. I deploy and maintain applications, automate operational workflows, troubleshoot issues, and keep environments reliable and secure.</p>
-<p>Currently strengthening my expertise in <b>Cybersecurity, Systems Engineering and DevOps</b> through hands-on learning and real-world experience.</p>
+<h1 align="center">Hey there 👋</h1>
 
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a></p>
-
-<h2>🔗 Connect With Me</h2>
-<p>
-<a href="https://www.linkedin.com/in/nadeeshan-r-wijesinghe-3724ba263"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nadeeshanrw@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://tryhackme.com/r/p/Nadeeshan.Wijesinghe"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-<a href="https://discord.gg/ywHnJ4FQ"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://t.me/Nadiya_RW"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://www.facebook.com/nadeeshan.rwijesinghe"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.instagram.com/nadeeshan.r.wijesingha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.twitch.tv/nadiya_rw"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+<p align="center">
+  <strong>Systems Engineer | Linux | Infrastructure | DevOps | Monitoring | Cybersecurity</strong>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NadeeshanRW&show_icons=true&locale=en" alt="NadeeshanRW" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NadeeshanRW&" alt="NadeeshanRW" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NadeeshanRW&show_icons=true&locale=en&layout=compact" alt="NadeeshanRW" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NadeeshanRW" alt="NadeeshanRW" /></a></p>
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+I'm Nadeeshan Wijesinghe, a Systems Engineer with hands-on experience in Linux administration, infrastructure management, networking, containerization, CI/CD, system monitoring, and production support.
+<br><br>
+🔧 I work with development, staging, and production environments, focusing on application deployment, infrastructure operations, system services, monitoring, troubleshooting, and reliability.
+<br><br>
+🐧 My technical focus includes Linux, virtualization, containers, CI/CD automation, observability, infrastructure security, and production operations.
+<br><br>
+🚀 Currently strengthening my expertise in Systems Engineering, DevOps, and Cybersecurity through practical implementation, hands-on labs, and real-world experience.
+<br><br>
+💡 I enjoy solving technical problems, understanding systems deeply, automating repetitive tasks, and building reliable and secure IT environments.
+</p>
+
+###
+
+<h3 align="left">🛠️ Languages & Technologies</h3>
+
+###
+
+<h4 align="left">💻 Programming & Development</h4>
+
+<p align="left">
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36"/>
+</a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36"/>
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36"/>
+</a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36"/>
+</a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36"/>
+</a>
+<a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36"/>
+</a>
+</p>
+
+<h4 align="left">🐧 Linux & Systems</h4>
+
+<p align="left">
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36"/>
+</a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36"/>
+</a>
+<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="Red Hat Linux" title="Red Hat Linux" width="36" height="36"/>
+</a>
+<a href="https://rockylinux.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rockylinux/rockylinux-original.svg" alt="Rocky Linux" title="Rocky Linux" width="36" height="36"/>
+</a>
+<a href="https://almalinux.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/almalinux/almalinux-original.svg" alt="AlmaLinux" title="AlmaLinux" width="36" height="36"/>
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="Bash" title="Bash" width="36" height="36"/>
+</a>
+</p>
+
+<h4 align="left">🐳 Containers, Virtualization & Infrastructure</h4>
+
+<p align="left">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36"/>
+</a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36"/>
+</a>
+<a href="https://www.proxmox.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" alt="Proxmox VE" title="Proxmox VE" width="36" height="36"/>
+</a>
+<a href="https://www.vmware.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" alt="VMware" title="VMware" width="36" height="36"/>
+</a>
+</p>
+
+<h4 align="left">⚙️ DevOps & CI/CD</h4>
+
+<p align="left">
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="36" height="36"/>
+</a>
+<a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" title="Bitbucket" width="36" height="36"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36"/>
+</a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" title="Ansible" width="36" height="36"/>
+</a>
+</p>
+
+<h4 align="left">📊 Monitoring, Observability & Logging</h4>
+
+<p align="left">
+<a href="https://grafana.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="36" height="36"/>
+</a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" width="36" height="36"/>
+</a>
+<a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/loki/loki-original.svg" alt="Loki" title="Loki" width="36" height="36"/>
+</a>
+<a href="https://grafana.com/docs/alloy/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana Alloy" title="Grafana Alloy" width="36" height="36"/>
+</a>
+<a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zabbix/zabbix-original.svg" alt="Zabbix" title="Zabbix" width="36" height="36"/>
+</a>
+<a href="https://graylog.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graylog/graylog-original.svg" alt="Graylog" title="Graylog" width="36" height="36"/>
+</a>
+<a href="https://www.pingdom.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/observability/observability-original.svg" alt="Monitoring" title="Monitoring" width="36" height="36"/>
+</a>
+</p>
+
+<h4 align="left">🛡️ Security & Infrastructure Management</h4>
+
+<p align="left">
+<a href="https://wazuh.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wazuh/wazuh-original.svg" alt="Wazuh" title="Wazuh" width="36" height="36"/>
+</a>
+<a href="https://www.portainer.io/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/portainer/portainer-original.svg" alt="Portainer" title="Portainer" width="36" height="36"/>
+</a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="AWS" title="AWS" width="36" height="36"/>
+</a>
+</p>
+
+<h4 align="left">🗄️ Databases & Application Platforms</h4>
+
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36"/>
+</a>
+<a href="https://appwrite.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg" alt="Appwrite" title="Appwrite" width="36" height="36"/>
+</a>
+</p>
+
+###
+
+<h3 align="left">📚 Currently Learning & Exploring</h3>
+
+<p align="left">
+Systems Engineering • DevOps • Cybersecurity • Infrastructure Security • Observability • Linux Administration • Automation • Containerization • CI/CD • Cloud Infrastructure
+</p>
+
+###
+
+<h3 align="left">🐍 Contribution Activity</h3>
+
+<p align="center">
+<img src="https://github.com/NadeeshanRW/NadeeshanRW/blob/output/snake.svg" alt="Snake animation" />
+</p>
+
+###
+
+<h3 align="left">🔥 GitHub Stats</h3>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NadeeshanRW&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NadeeshanRW&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=NadeeshanRW&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="GitHub streak" />
+
+</div>
+
+###
+
+<h3 align="left">🔗 Connect with me</h3>
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/nadeeshan-r-wijesinghe-3724ba263" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="30" alt="LinkedIn" />
+</a>
+
+<a href="mailto:nadeeshanrw@gmail.com">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="30" alt="Gmail" />
+</a>
+
+<a href="https://www.instagram.com/nadeeshan.r.wijesingha/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="30" alt="Instagram" />
+</a>
+
+<a href="https://tryhackme.com/r/p/Nadeeshan.Wijesinghe" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="44" height="30" alt="TryHackMe" />
+</a>
+
+<a href="https://www.twitch.tv/nadiya_rw" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="44" height="30" alt="Twitch" />
+</a>
+
+</div>
+
+###
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=NadeeshanRW&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+</div>
