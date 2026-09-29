@@ -99,7 +99,7 @@ I'm Nadeeshan Wijesinghe, a Systems Engineer with hands-on experience in Linux a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" alt="Proxmox VE" title="Proxmox VE" width="36" height="36"/>
 </a>
 <a href="https://www.vmware.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" alt="VMware" title="VMware" width="36" height="36"/>
+<img src="https://thesvg.org/icons/vmware/default.svg" alt="VMware" title="VMware" width="36" height="36"/>
 </a>
 </p>
 
@@ -123,27 +123,20 @@ I'm Nadeeshan Wijesinghe, a Systems Engineer with hands-on experience in Linux a
 <h4 align="left">📊 Monitoring, Observability & Logging</h4>
 
 <p align="left">
-<a href="https://grafana.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="36" height="36"/>
-</a>
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" width="36" height="36"/>
-</a>
-<a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/loki/loki-original.svg" alt="Loki" title="Loki" width="36" height="36"/>
-</a>
-<a href="https://grafana.com/docs/alloy/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana Alloy" title="Grafana Alloy" width="36" height="36"/>
-</a>
-<a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zabbix/zabbix-original.svg" alt="Zabbix" title="Zabbix" width="36" height="36"/>
-</a>
-<a href="https://graylog.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graylog/graylog-original.svg" alt="Graylog" title="Graylog" width="36" height="36"/>
-</a>
-<a href="https://www.pingdom.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/observability/observability-original.svg" alt="Monitoring" title="Monitoring" width="36" height="36"/>
-</a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="36" height="36"/>
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" width="36" height="36"/>
+  </a>
+  <a href="https://graylog.org/" target="_blank" rel="noreferrer">
+    <img src="https://thesvg.org/icons/graylog/default.svg" alt="Graylog" title="Graylog" width="36" height="36"/>
+  </a>
+  </a>
+  <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
+    <img src="https://thesvg.org/icons/zabbix/default.svg" alt="Zabbix" title="Zabbix" width="36" height="36"/>
+  </a>
+
 </p>
 
 <h4 align="left">🛡️ Security & Infrastructure Management</h4>
@@ -173,7 +166,7 @@ I'm Nadeeshan Wijesinghe, a Systems Engineer with hands-on experience in Linux a
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36"/>
 </a>
 <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg" alt="Appwrite" title="Appwrite" width="36" height="36"/>
+<img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg](https://thesvg.org/icons/appwrite/default.svg)" alt="Appwrite" title="Appwrite" width="36" height="36"/>
 </a>
 </p>
 
